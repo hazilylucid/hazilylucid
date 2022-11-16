@@ -1,2 +1,2 @@
-# solarisocularis.github.io
+# hazilylucid.github.io
 My first website
