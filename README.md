@@ -1,2 +1,2 @@
-# solaris.github.io
+# solarisocularis.github.io
 My first website
